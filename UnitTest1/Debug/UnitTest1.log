@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Універ\Лабораторні\ООП\OOPLab 5.1A\OOPLab 5.1A\OOPLab 5.1A.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Універ\Лабораторні\ООП\OOPLab 5.1A\OOPLab 5.1A\OOPLab 5.1A.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     Создается библиотека C:\Універ\Лабораторні\ООП\OOPLab 5.1A\Debug\UnitTest1.lib и объект C:\Універ\Лабораторні\ООП\OOPLab 5.1A\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Універ\Лабораторні\ООП\OOPLab 5.1A\Debug\UnitTest1.dll
